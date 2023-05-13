@@ -1,0 +1,28 @@
+body{
+    padding:0;
+    margin:0;
+    
+}
+
+.container{
+    border-style:groove;
+    margin: 0 50px;
+    padding:10px;
+}
+
+h1,h5{
+    text-align: center;
+}
+
+img{
+    display:block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    text-align: center;
+}
+
+
